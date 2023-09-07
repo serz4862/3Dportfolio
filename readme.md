@@ -6,7 +6,7 @@ Load Create Customize 3D models Geometries with various lights
 
 This project gives the better understanding of the 3D world with camera and positions of an object in th space.
 
-the things that I have been using in this project are :<br>
+<h3>The tools and dependencies that I have been using in this project are :</h3><br>
 <p>vite: npm create vite@latest ./ -- --template react </p>
 <p>tailwind css : npm install -D tailwindcss</p>
 <p>then I have initialized it using the command : npx tailwindcss init</p>
