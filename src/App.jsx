@@ -7,5 +7,5 @@ const App = () => {
     </div>
    )
 }
-
+// all the functionalities are imported.
 export default App
